@@ -1,0 +1,71 @@
+*{
+    font-family: 'PT Serif', serif;
+    margin: 0;
+	padding: 0;
+	border: 0;
+    
+
+}
+header{
+    text-align: center;
+    background-image: url(../img/fondo.jpg);
+    background-size: 100% 100%;    
+    padding: 6em;
+}
+.banner{
+    width:20%;
+    border-radius: 2em;
+}
+a{
+    color: #fff;
+    text-decoration: none
+}
+p{
+    font-size: 1.5rem;
+}
+h1{
+    letter-spacing: 0.5em;
+    text-align: center;
+    padding-top: 1rem;
+    margin: 2rem;
+}
+hr{
+    border-top: 0.2rem solid #000;
+    margin: 0.9rem 5rem;
+}
+h2{
+    font-size:1.2rem;
+    letter-spacing: 0.3em;
+    padding-left: 1rem;
+    
+}
+h1 ,h2{
+
+    color: #005677;
+
+}
+
+ul{
+    margin: 1.2rem 3rem;
+}
+
+span{
+    font-weight: bold;
+}
+pre{
+    text-indent: 5rem;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    background-color: #005677 ;
+    color: #fff;
+}
+
+p , i{
+    margin-left: 1em;
+}
+i{
+    color: #fff;
+}
